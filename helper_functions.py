@@ -292,3 +292,6 @@ def download_data(source: str,
             os.remove(data_path / target_file)
     
     return image_path
+
+if __name__ == "__main__":
+    print("Hello from helper_functions.py!")
