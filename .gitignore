@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+t10k-*
+train-images-*
+train-labels-*
+
 # Distribution / packaging
 .Python
 build/
